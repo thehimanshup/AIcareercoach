@@ -6,8 +6,8 @@ requests
 load_dotenv
 pandas
 Groq
-base64
 hashlib
 px
 plotly.express
 FPDF
+
