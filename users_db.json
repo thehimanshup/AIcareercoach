@@ -1,0 +1,32 @@
+{
+  "Gagan": {
+    "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+    "profile": {
+      "role": "12th pass",
+      "skills": "economic history pol science",
+      "goal": "IAS",
+      "roadmap_text": "To achieve the goal of becoming an IAS officer, here's a week-by-week learning roadmap for the next 24 weeks, focusing on economic history and pol science:\n\nWeeks 1-4: \n- Familiarize yourself with the IAS exam pattern, syllabus, and previous years' question papers.\n- Start reading the Indian Constitution, focusing on the Preamble, Fundamental Rights, and Directive Principles of State Policy.\n- Begin studying Indian history, especially the freedom struggle and the making of the Indian Constitution.\n- Learn the basics of economics, including microeconomics and macroeconomics concepts.\n\nWeeks 5-8: \n- Dive deeper into Indian economic history, covering topics like the British era, colonial exploitation, and the impact of colonial rule on India's economy.\n- Study the major events and policies in post-independence India, such as the five-year plans and economic reforms.\n- Explore key concepts in pol science, including political theory, Indian political thought, and international relations.\n- Practice answering questions related to these topics.\n\nWeeks 9-12: \n- Focus on contemporary issues in Indian politics, such as federalism, secularism, and social justice.\n- Study international organizations, including the UN, IMF, and World Bank, and their impact on global politics and economy.\n- Learn about Indian governance, including the role of the president, prime minister, and parliament.\n- Practice case studies and analytical questions related to these topics.\n\nWeeks 13-16: \n- Study public policy, including its formulation, implementation, and evaluation.\n- Learn about the major challenges facing India, such as poverty, inequality, and environmental degradation.\n- Focus on the role of civil society, NGOs, and media in Indian democracy.\n- Practice answering questions on current events and issues.\n\nWeeks 17-20: \n- Focus on ethics, integrity, and aptitude, which are crucial components of the IAS exam.\n- Learn about the moral and philosophical foundations of public administration.\n- Study the role of bureaucracy in Indian governance and the challenges facing it.\n- Practice answering questions on ethical dilemmas and case studies.\n\nWeeks 21-24: \n- Intensify your practice with mock tests, previous years' question papers, and sample questions.\n- Focus on improving your answer writing skills, including structure, content, and presentation.\n- Learn time management techniques to optimize your performance in the actual exam.\n- Stay updated with current events and issues, and practice analyzing and answering questions on them.\n\nRemember, consistency and persistence are key to achieving your goal. Stay motivated, and with dedication and hard work, you can become an IAS officer.",
+      "skills_list": "Public Administration | Understanding of administrative structures and policies | IGNOU Public Administration Course | https://ignou.ac.in/ignou/aboutignou/school/sosp.html\n\nData Analysis | Ability to collect, analyze, and interpret data for informed decision-making | edX Data Analysis Course | https://www.edx.org/learn/data-analysis\n\nGeography and Environment | Knowledge of Indian and world geography, environmental issues, and sustainability | NCERT Geography Textbooks | https://ncert.nic.in/textbook/textbook.htm\n\nEthics and Moral Philosophy | Understanding of ethical principles, moral values, and their application in governance | Pluralsight Ethics Course | https://www.pluralsight.com/courses/ethics\n\nEnglish Language and Communication | Effective communication, writing, and comprehension skills | British Council English Courses | https://www.britishcouncil.in/english/courses"
+    }
+  },
+  "himanshu": {
+    "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+    "profile": {
+      "role": "Analyst",
+      "skills": "PowerBI, Excel",
+      "goal": "Cloud Engineer"
+    }
+  },
+  "harjeet": {
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "profile": {
+      "role": "Compliance auditor",
+      "skills": "Cyber Security Fundamental, Information security",
+      "goal": "Compliance and Governance lead"
+    }
+  },
+  "himanshu409": {
+    "password": "f09d21f563698fe4d9c41c80d0516d8ef1f6fcb84479985ec2abe5a42be2556b",
+    "profile": {}
+  }
+}
