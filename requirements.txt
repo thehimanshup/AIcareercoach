@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+openai
+pandas
+requests
+load_dotenv
+pandas
+Groq
+base64
+hashlib
+px
+plotly.express
+FPDF
